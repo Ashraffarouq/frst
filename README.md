@@ -1,1 +1,2 @@
 # frst
+# project notes
